@@ -3,11 +3,6 @@
 </p>
 
 <br />
-
-<p align="center">
-  <strong>We engineer your concepts into a production-ready reality.</strong>
-</p>
-
 <p align="center">
   <a href="https://www.zerotoprod.tech">Website</a> •
   <a href="https://www.linkedin.com/company/zero2prod/">LinkedIn</a> •
