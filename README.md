@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="zero → prod banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/zerotoprod-5/zerotoprod-5/main/banner.png" alt="zero → prod banner" width="100%" />
 </p>
 
 <br />
