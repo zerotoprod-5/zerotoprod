@@ -4,8 +4,6 @@
 
 <br />
 
-<h1 align="center">zero → prod</h1>
-
 <p align="center">
   <strong>We engineer your concepts into a production-ready reality.</strong>
 </p>
